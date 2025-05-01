@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "title": "Smart LED Strip Lights",
+      "description": "Color-changing lights synced with music.",
+      "image": "https://via.placeholder.com/300x200",
+      "link": "https://example.com/product1"
+    },
+    {
+      "title": "Portable Neck Fan",
+      "description": "Stay cool hands-free while on the move.",
+      "image": "https://via.placeholder.com/300x200",
+      "link": "https://example.com/product2"
+    },
+    {
+      "title": "Mini Projector",
+      "description": "Turn any room into a home theater.",
+      "image": "https://via.placeholder.com/300x200",
+      "link": "https://example.com/product3"
+    }
+  ]
+}
+
